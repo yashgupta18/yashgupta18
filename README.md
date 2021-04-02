@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer,and Student! 
 - 🌱 I’m currently learning everything 
-- 💻 Searching for remote internships
+- 💻 Searching for Software Developement Jobs
 - 👯 Let's connect if you share similar interests
 
 ### Connect with me:
