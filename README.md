@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **18guptayash@gmail.com**
 
-### Blogs posts
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
