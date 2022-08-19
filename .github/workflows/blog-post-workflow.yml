@@ -11,4 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          max_post_count: "7"
+          remove_duplicates: true
           feed_list: 'https://dev.to/feed/yash18, https://medium.com/feed/@yashguptaa'
