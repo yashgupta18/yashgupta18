@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently exploring **DevOps** and reading about **Frontend Design Systems**
 
 - 👨‍💻 All of my projects are available at [https://yashgupta18.github.io/portfolio/#](https://yashgupta18.github.io/portfolio/#)
 
