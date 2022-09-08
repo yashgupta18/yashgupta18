@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently using and exploring **DevOps** and reading about **Design Systems**
+- 🌱 I’m currently using and exploring **Golang** and reading about **DevOps** and **Design Systems** 
 
 - 👨‍💻 All of my projects are available at [https://yashgupta18.github.io/portfolio/#](https://yashgupta18.github.io/portfolio/#)
 
