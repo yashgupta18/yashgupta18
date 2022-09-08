@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently exploring **DevOps** and reading about **Frontend Design Systems**
+- 🌱 I’m currently using and exploring **DevOps** and reading about **Design Systems**
 
 - 👨‍💻 All of my projects are available at [https://yashgupta18.github.io/portfolio/#](https://yashgupta18.github.io/portfolio/#)
 
 - 📝 I regularly write articles on [https://yashguptaa.medium.com/](https://yashguptaa.medium.com/)
 
-- 💬 Ask me about **ReactJS, Frontend**
+- 💬 Ask me about **DevOps, ReactJS**
 
 - 📫 How to reach me **18guptayash@gmail.com**
 
