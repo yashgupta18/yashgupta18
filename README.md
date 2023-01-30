@@ -14,13 +14,13 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Master the Art of Referencing with React’s useRef Hook: A Beginner’s Guide](https://javascript.plainenglish.io/master-the-art-of-referencing-with-reacts-useref-hook-a-beginner-s-guide-b9b87281320c?source=rss-8b323afffe56------2)
 - [State Management with Context API &amp; Custom MultiSelect Hook in React](https://javascript.plainenglish.io/state-management-with-context-api-and-custom-multiselect-hook-in-reactjs-ed3109cce175?source=rss-8b323afffe56------2)
 - [Stages in DevOps and Tools used in Different Stages of an Application](https://blog.devops.dev/stages-in-devops-and-tools-used-in-different-stages-of-an-application-da7a476ea02?source=rss-8b323afffe56------2)
 - [Importance of Logging In Kubernetes, Intro to Grafana Loki &amp; deploying with helm-charts](https://blog.devops.dev/importance-of-logging-in-kubernetes-and-intro-to-grafana-loki-f8dc6f736e6?source=rss-8b323afffe56------2)
 - [Introduction to Kubernetes Monitoring And exploring Prometheus](https://blog.devops.dev/introduction-to-kubernetes-monitoring-and-exploring-prometheus-9bd0358ce504?source=rss-8b323afffe56------2)
 - [Part-2: Setup Prometheus, Kube State metrics and Integrate Grafana with Kubernetes](https://blog.devops.dev/part-2-setup-prometheus-kube-state-metrics-and-integrate-grafana-with-kubernetes-4a91bf5bee29?source=rss-8b323afffe56------2)
 - [Part-1: Setup Prometheus, Kube State metrics and Integrate Grafana with Kubernetes](https://blog.devops.dev/part-1-setup-prometheus-kube-state-metrics-and-integrate-grafana-with-kubernetes-6c21f60d167f?source=rss-8b323afffe56------2)
-- [Application Deploy to Kubernetes with Argo CD and K3d](https://yashguptaa.medium.com/application-deploy-to-kubernetes-with-argo-cd-and-k3d-8e29cf4f83ee?source=rss-8b323afffe56------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
