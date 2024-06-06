@@ -14,8 +14,8 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Master the Art of Referencing with React’s useRef Hook: A Beginner’s Guide](https://yashguptaa.medium.com/master-the-art-of-referencing-with-reacts-useref-hook-a-beginner-s-guide-b9b87281320c?source=rss-8b323afffe56------2)
-- [State Management with Context API &amp; Custom MultiSelect Hook in React](https://yashguptaa.medium.com/state-management-with-context-api-and-custom-multiselect-hook-in-reactjs-ed3109cce175?source=rss-8b323afffe56------2)
+- [Master the Art of Referencing with React’s useRef Hook: A Beginner’s Guide](https://javascript.plainenglish.io/master-the-art-of-referencing-with-reacts-useref-hook-a-beginner-s-guide-b9b87281320c?source=rss-8b323afffe56------2)
+- [State Management with Context API &amp; Custom MultiSelect Hook in React](https://javascript.plainenglish.io/state-management-with-context-api-and-custom-multiselect-hook-in-reactjs-ed3109cce175?source=rss-8b323afffe56------2)
 - [Stages in DevOps and Tools used in Different Stages of an Application](https://blog.devops.dev/stages-in-devops-and-tools-used-in-different-stages-of-an-application-da7a476ea02?source=rss-8b323afffe56------2)
 - [Importance of Logging In Kubernetes, Intro to Grafana Loki &amp; deploying with helm-charts](https://blog.devops.dev/importance-of-logging-in-kubernetes-and-intro-to-grafana-loki-f8dc6f736e6?source=rss-8b323afffe56------2)
 - [Introduction to Kubernetes Monitoring And exploring Prometheus](https://blog.devops.dev/introduction-to-kubernetes-monitoring-and-exploring-prometheus-9bd0358ce504?source=rss-8b323afffe56------2)
